@@ -311,3 +311,12 @@ FinanceAI is an AI-powered banking platform that leverages machine learning for 
 - **System Availability**: 99.99% uptime
 - **Concurrent Users**: 1,000,000+ simultaneous users
 
+
+## AI Components
+
+### NLP Processing
+- Text tokenization and normalization
+- Similarity calculation algorithms
+- Context-aware processing
+
+*Updated: 2025-12-20*
